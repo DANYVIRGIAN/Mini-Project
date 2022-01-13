@@ -12,6 +12,6 @@ untuk run project ini
 email : rt@gmail.com 
 password : admin
 
-#Login sebagai admin
+# Login sebagai admin
 email : hayato@gmail.com
 password : admin
